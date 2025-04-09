@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"inlang.vs-code-extension",
+		"oven.bun-vscode",
+		"biomejs.biome",
+		"streetsidesoftware.code-spell-checker",
+		"bradlc.vscode-tailwindcss"
+	]
+}
