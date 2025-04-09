@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "bun",
+			"script": "vinxi dev --host",
+			"problemMatcher": [],
+			"label": "bun: dev",
+			"detail": "bun run vinxi dev --host - package.json"
+		}
+	]
+}
